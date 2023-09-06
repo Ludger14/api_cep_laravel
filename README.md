@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Instruções para configurar e executar localmente:
+
+- Baixar o código fonte onde tem os arquivos do php no seu computador. No meu caso, foi no C:\wamp64\www.
+
+- Instalar o node_modules no projeto.
+
+- Criar um banco de dados com o nome laravel em phpMyAdmin.
+
+- Rodar o projeto com o comando php artisan serve.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
